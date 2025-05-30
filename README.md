@@ -4,6 +4,7 @@ Hi, I’m CJ — a strategic and results-driven operations and project managemen
 
 🔧 Currently learning: Python, Git, Linux, networking, and systems fundamentals  
 🔒 Exploring cybersecurity fundamentals
-🧠 Interests: Astute learner with a passion for purpose-driven work
+🧠 Interests: CyberSecurity. Astute learner with a passion for purpose-driven work
+🛠️ Strength: Strategic problem-solver with a sharp learning curve — combining leadership, process optimization, and a growing command of code and cybersecurity principles.
 🌍 Seeking: Remote opportunities in progressive, flexible organizations that value autonomy and proactive leadership
 📫 Let’s connect on [LinkedIn] (https://www.linkedin.com/in/c-bradley-28a936368/)

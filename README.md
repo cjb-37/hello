@@ -13,3 +13,5 @@ Hi, I’m CJ — a strategic and results-driven operations and project managemen
 🌍 Seeking: Remote opportunities in progressive, flexible organizations that value autonomy and proactive leadership
 
 📫 Let’s connect on [LinkedIn] (https://www.linkedin.com/in/c-bradley-28a936368/)
+
+- [See my independent projects](./strength.md)
